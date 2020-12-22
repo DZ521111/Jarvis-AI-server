@@ -3,6 +3,8 @@ import os
 import time
 import argparse
 import pyttsx3
+import numpy as np
+import pandas as np
 
 
 mode = "text"
