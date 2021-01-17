@@ -1,3 +1,7 @@
+'''
+Author : Dhruv B Kakadiya
+
+'''
 
 import alsaaudio
 import sys
