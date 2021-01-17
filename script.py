@@ -77,7 +77,7 @@ if __name__ == '__main__':
         mode = "voice"
     except ImportError:
         print("\nInstall SpeechRecognition to use this feature." +
-              "\nStarting text mode\n")
+            "\nStarting text mode\n")
     '''if (args.gtts):
         try:
             from gtts import gTTS
@@ -86,7 +86,7 @@ if __name__ == '__main__':
         except ImportError:
             import pyttsx3
             print("\nInstall gTTS and pygame to use this feature." +
-                  "\nUsing pyttsx\n")
+                "\nUsing pyttsx\n")
     else:
         import pyttsx3'''
 
